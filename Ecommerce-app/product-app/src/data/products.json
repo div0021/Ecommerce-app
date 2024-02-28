@@ -1,0 +1,756 @@
+{
+    "products": [
+      {
+        "title": "iPhone 14",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 993,
+        "discountPercentage": 12.96,
+        "rating": 0,
+        "stock": 0,
+        "brand": "Apple",
+        "category": "smartphones",
+        "images": [
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70&crop=false",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/5/i/7/-original-imaguypzzhbzm5an.jpeg?q=70&crop=false",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/e/f/h/-original-imaguypztg4ddpes.jpeg?q=70&crop=false"
+        ]
+      },
+      {
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 1111,
+        "discountPercentage": 17.94,
+        "rating": 0,
+        "stock": 34,
+        "brand": "Apple",
+        "category": "smartphones",
+        "images": [
+          "https://rukminim2.flixcart.com/image/416/416/j9d3bm80/mobile/k/x/a/apple-iphone-x-mqa82hn-a-original-imaeyysgmypxmazk.jpeg?q=70&crop=false",
+          "https://rukminim2.flixcart.com/image/416/416/j9d3bm80/mobile/k/x/a/apple-iphone-x-mqa82hn-a-original-imaeyzyf8dyfgaaq.jpeg?q=70&crop=false",
+          "https://rukminim2.flixcart.com/image/416/416/j9d3bm80/mobile/k/x/a/apple-iphone-x-mqa82hn-a-original-imaeyysge4tu4gva.jpeg?q=70&crop=false"
+        ]
+      },
+      {
+        "title": "Samsung Galaxy M34 5G",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "discountPercentage": 15.46,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "images": [
+          "https://m.media-amazon.com/images/I/81G1lBaY9eL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/61vcP5ItaXL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/81jA2esZOuL._SX569_.jpg"
+        ]
+      },
+      {
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 300,
+        "discountPercentage": 17.91,
+        "rating": 0,
+        "stock": 123,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "images": [
+          "https://m.media-amazon.com/images/I/41bMPXobnfL._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/81scFGQRixL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/717zZhrw5XL._SX569_.jpg"
+        ]
+      },
+      {
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "discountPercentage": 10.58,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOhQJj9r3m0LMXuQTLyiIW39LR2Ib1dMDLM3zfmb3dpOgzjiNgtsFJi1Eq8o4goABOj59nffmE9k9a1_8sdo11b7grdGvUNv5wCUIay_5xjCPQX2Ylp--g",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQXLEElrUYlC0INLFgLFV32EJX3uxU9Dj_ay7kkptrWElqiLzgMdHOwtbps_7S8R8bPY4j3rPFNHNNK3cDTukPm2R8tsWyv8VmhJ3RRxGQ&usqp=CAE",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQXLEElrUYlC0INLFgLFV32EJX3uxU9Dj_ay7kkptrWElqiLzgMdHOwtbps_7S8R8bPY4j3rPFNHNNK3cDTukPm2R8tsWyv8VmhJ3RRxGQ&usqp=CAE"
+        ]
+      },
+      {
+        "title": "MacBook Pro",
+        "description": "MacBook Pro 2023 with mini-LED display may launch between September, November",
+        "price": 1999,
+        "discountPercentage": 11.02,
+        "rating": 3,
+        "stock": 83,
+        "brand": "Apple",
+        "category": "laptops",
+        "images": [
+          "https://m.media-amazon.com/images/I/41xnAZVg62L._SY445_SX342_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/81hrEND4QvL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/91LJAKgO0ML._SX466_.jpg"
+        ]
+      },
+      {
+        "title": "Samsung Galaxy Book",
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 1499,
+        "discountPercentage": 4.15,
+        "rating": 4.25,
+        "stock": 50,
+        "brand": "Samsung",
+        "category": "laptops",
+        "images": [
+          "https://m.media-amazon.com/images/I/41Kc2NBcuML._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/71i+rqOXp-L._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/71DJaFMz79L._SY450_.jpg"
+        ]
+      },
+      {
+        "title": "Microsoft Surface Laptop 4",
+        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "images": [
+          "https://m.media-amazon.com/images/I/31pGpMBH2zL._SY300_SX300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/51-mh1k5mSL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/714xIWa76NL._SY450_.jpg"
+        ]
+      },
+      {
+        "title": "Infinix INBOOK",
+        "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+        "price": 1099,
+        "discountPercentage": 11.83,
+        "rating": 4.54,
+        "stock": 96,
+        "brand": "Infinix",
+        "category": "laptops",
+        "images": [
+          "https://m.media-amazon.com/images/I/51DlM6OUjiL._SY300_SX300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/5146hsKhIrL._SY606_.jpg",
+          "https://m.media-amazon.com/images/I/41MEoaR-66L._SY450_.jpg"
+        ]
+      },
+      {
+        "title": "HP Pavilion 15-DK1056WM",
+        "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 1099,
+        "discountPercentage": 6.18,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "HP Pavilion",
+        "category": "laptops",
+        "images": [
+          "https://m.media-amazon.com/images/I/51RWI1cDb0L._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/61pKJglNMBL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/61uegZmN2mL._SY450_.jpg"
+        ]
+      },
+      {
+        "title": "perfume Oil",
+        "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+        "price": 13,
+        "discountPercentage": 8.4,
+        "rating": 4.26,
+        "stock": 65,
+        "brand": "Impression of Acqua Di Gio",
+        "category": "fragrances",
+        "images": [
+          "https://m.media-amazon.com/images/I/61Xk5iBqxKL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/61teDZ+bN+L._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/51Wrnh9ZNcL._SL1000_.jpg"
+        ]
+      },
+      {
+        "title": "Brown Perfume",
+        "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+        "price": 40,
+        "discountPercentage": 15.66,
+        "rating": 4,
+        "stock": 52,
+        "brand": "Royal_Mirage",
+        "category": "fragrances",
+        "images": [
+          "https://m.media-amazon.com/images/I/61GdekkBHKL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/51MZ3wmS36L._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/519ObL32VaL._SY355_.jpg"
+        ]
+      },
+      {
+        "title": "Fog Scent Xpressio Perfume",
+        "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+        "price": 13,
+        "discountPercentage": 8.14,
+        "rating": 4.59,
+        "stock": 61,
+        "brand": "Fog Scent Xpressio",
+        "category": "fragrances",
+        "images": [
+          "https://m.media-amazon.com/images/I/41P1ATEFvFL._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/61GE0ptZ6bL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/81PYcWEKnOL._SY355_.jpg"
+        ]
+      },
+      {
+        "title": "Non-Alcoholic Concentrated Perfume Oil",
+        "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+        "price": 120,
+        "discountPercentage": 15.6,
+        "rating": 4.21,
+        "stock": 114,
+        "brand": "Al Munakh",
+        "category": "fragrances",
+        "images": [
+          "https://m.media-amazon.com/images/I/81rc3gKS7SL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81eb2WALXuL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71YT-L2NbFL._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "Eau De Perfume Spray",
+        "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+        "price": 30,
+        "discountPercentage": 10.99,
+        "rating": 4.7,
+        "stock": 105,
+        "brand": "Lord - Al-Rehab",
+        "category": "fragrances",
+        "images": [
+          "https://m.media-amazon.com/images/I/51g9VweRGoL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/51lYag6LgqL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/51tsj-UGHeL._SY355_.jpg"
+        ]
+      },
+      {
+        "title": "Hyaluronic Acid Serum",
+        "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+        "price": 19,
+        "discountPercentage": 13.31,
+        "rating": 4.83,
+        "stock": 110,
+        "brand": "L'Oreal Paris",
+        "category": "skincare",
+        "images": [
+          "https://m.media-amazon.com/images/I/21lQwfeiMrL._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/612XDk93OvL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/51RUbTCYWyL._SL1300_.jpg"
+        ]
+      },
+      {
+        "title": "Tree Oil 30ml",
+        "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+        "price": 12,
+        "discountPercentage": 4.09,
+        "rating": 4.52,
+        "stock": 78,
+        "brand": "Hemani Tea",
+        "category": "skincare",
+        "images": [
+          "https://m.media-amazon.com/images/I/61WI+eYqygL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/61UEEN5i0oL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/61Dewp9khrL._SY450_.jpg"
+        ]
+      },
+      {
+        "title": "Oil Free Moisturizer 100ml",
+        "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+        "price": 40,
+        "discountPercentage": 13.1,
+        "rating": 4.56,
+        "stock": 88,
+        "brand": "Dermive",
+        "category": "skincare",
+        "images": [
+          "https://m.media-amazon.com/images/I/6173aJDw1uL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/61p3+Rs6NvL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/61KWVP3NvvL._SY355_.jpg"
+        ]
+      },
+      {
+        "title": "Skin Beauty Serum.",
+        "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+        "price": 46,
+        "discountPercentage": 10.68,
+        "rating": 4.42,
+        "stock": 54,
+        "brand": "ROREC White Rice",
+        "category": "skincare",
+        "images": [
+          "https://m.media-amazon.com/images/I/41Vgsv0D0ML._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/21Js4QLUazL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/51yLhKjTZnL._SY355_.jpg"
+        ]
+      },
+      {
+        "title": "Freckle Treatment Cream- 15gm",
+        "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+        "price": 70,
+        "discountPercentage": 16.99,
+        "rating": 4.06,
+        "stock": 140,
+        "brand": "Fair & Clear",
+        "category": "skincare",
+        "images": [
+          "https://m.media-amazon.com/images/I/51+6pN7lYUL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/71BCF+y+brL._SY355_.jpg",
+          "https://m.media-amazon.com/images/I/615YvUB2wfL._SY355_.jpg"
+        ]
+      },
+      {
+        "title": "- Daal Masoor 500 grams",
+        "description": "Fine quality Branded Product Keep in a cool and dry place",
+        "price": 20,
+        "discountPercentage": 4.81,
+        "rating": 4.44,
+        "stock": 133,
+        "brand": "Saaf & Khaas",
+        "category": "groceries",
+        "images": [
+          "https://m.media-amazon.com/images/I/51zFAAia04L._SY300_SX300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/91q7tuwE0DL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/61HNVPwasoL._SX425_.jpg"
+        ]
+      },
+      {
+        "title": "Elbow Macaroni - 400 gm",
+        "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+        "price": 14,
+        "discountPercentage": 15.58,
+        "rating": 4.57,
+        "stock": 146,
+        "brand": "Bake Fillz",
+        "category": "groceries",
+        "images": [
+          "https://m.media-amazon.com/images/I/61NITlU-qqL._SX522_.jpg",
+          "https://m.media-amazon.com/images/I/418quu5C7ZL.jpg",
+          "https://m.media-amazon.com/images/I/61ZjQbQn1AL._SX522_.jpg"
+        ]
+      },
+      {
+        "title": "Chocolate Essence Food Flavour",
+        "description": "Specifications of Chocolate Essence Food Flavour For Cakes and Baking Food Item",
+        "price": 14,
+        "discountPercentage": 8.04,
+        "rating": 4.85,
+        "stock": 26,
+        "brand": "Bake Fillz",
+        "category": "groceries",
+        "images": [
+          "https://m.media-amazon.com/images/I/41LSFFEHmES._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/51d6Q70BJfS._SY550_.jpg",
+          "https://m.media-amazon.com/images/I/51d6Q70BJfS._SY550_.jpg"
+        ]
+      },
+      {
+        "title": "cereals muesli fruit nuts",
+        "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+        "price": 46,
+        "discountPercentage": 16.8,
+        "rating": 4.94,
+        "stock": 113,
+        "brand": "fauji",
+        "category": "groceries",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/4109kvaLDhL._SY300_SX300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/51PATQO8O2L.jpg",
+            "https://m.media-amazon.com/images/I/715b78avM4L._SX522_.jpg"
+        ]
+      },
+      {
+        "title": "Gulab Powder 50 Gram",
+        "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+        "price": 70,
+        "discountPercentage": 13.58,
+        "rating": 4.87,
+        "stock": 47,
+        "brand": "Dry Rose",
+        "category": "groceries",
+        "images": [
+          "https://m.media-amazon.com/images/I/51jixlQUZ3L._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/41Atl3Epb3L._SY355_.jpg"
+        ]
+      },
+      {
+        "title": "Plant Hanger For Home",
+        "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+        "price": 41,
+        "discountPercentage": 17.86,
+        "rating": 4.08,
+        "stock": 131,
+        "brand": "Boho Decor",
+        "category": "home-decoration",
+        "images": [
+          "https://m.media-amazon.com/images/I/41zjpm31DIL._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/81xY9wxtBNL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/41WviTb2X+L._SX425_.jpg"
+        ]
+      },
+      {
+        "title": "Flying Wooden Bird",
+        "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+        "price": 51,
+        "discountPercentage": 15.58,
+        "rating": 4.41,
+        "stock": 17,
+        "brand": "Flying Wooden",
+        "category": "home-decoration",
+        "images": [
+          "https://m.media-amazon.com/images/I/41KmWce2znL._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/7148IE9uqzL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/71NTTp28KLL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/71Nl2ApvmTL._SX425_.jpg"
+        ]
+      },
+      {
+        "title": "3D Embellishment Art Lamp",
+        "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+        "price": 20,
+        "discountPercentage": 16.49,
+        "rating": 4.82,
+        "stock": 54,
+        "brand": "LED Lights",
+        "category": "home-decoration",
+        "images": [
+          "https://m.media-amazon.com/images/I/51CQ5YYChlL._SY445_SX342_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/71BvE5wG-xL._SX342_.jpg",
+          "https://m.media-amazon.com/images/I/51Nm5yONcSL._SX342_.jpg"
+        ]
+      },
+      {
+        "title": "Handcraft Indian style",
+        "description": "Handcraft Indian style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+        "price": 60,
+        "discountPercentage": 15.34,
+        "rating": 4.44,
+        "stock": 7,
+        "brand": "luxury palace",
+        "category": "home-decoration",
+        "images": [
+          "https://m.media-amazon.com/images/I/51EIEL04XCL._SX300_SY300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/7194KMpyx3L._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/61hK-IYhDTL._SX425_.jpg"
+        ]
+      },
+      {
+        "title": "Key Holder",
+        "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+        "price": 30,
+        "discountPercentage": 2.92,
+        "rating": 4.92,
+        "stock": 54,
+        "brand": "Golden",
+        "category": "home-decoration",
+        "images": [
+          "https://m.media-amazon.com/images/I/71RUJjzxVaL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/617tWjQF7fL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/71l887CHiYL._SX425_.jpg"
+        ]
+      },
+      {
+        "title": "Mornadi Velvet Bed",
+        "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
+        "price": 140,
+        "discountPercentage": 17,
+        "rating": 4.16,
+        "stock": 140,
+        "brand": "Furniture Bed Set",
+        "category": "furniture",
+        "images": [
+          "https://m.media-amazon.com/images/I/7110kk1kDXL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/71W3ujpN8SL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/813Kx867EpL._SX425_.jpg"
+        ]
+      },
+      {
+        "title": "Sofa for Coffe Cafe",
+        "description": "Ratttan Outdoor furniture Set Waterproof  Rattan Sofa for Coffe Cafe",
+        "price": 150,
+        "discountPercentage": 15.59,
+        "rating": 4.74,
+        "stock": 30,
+        "brand": "Ratttan Outdoor",
+        "category": "furniture",
+        "images": [
+          "https://m.media-amazon.com/images/I/31QMR3yjzEL._SY300_SX300_QL70_FMwebp_.jpg",
+          "https://m.media-amazon.com/images/I/51c2aCrsZTL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/51xx2DUx7gL._SX425_.jpg"
+        ]
+      },
+      {
+        "title": "3 Tier Corner Shelves",
+        "description": "3 Tier Corner Shelves | 3 PCs Wall Mount Kitchen Shelf | Floating Bedroom Shelf",
+        "price": 700,
+        "discountPercentage": 17,
+        "rating": 4.31,
+        "stock": 106,
+        "brand": "Kitchen Shelf",
+        "category": "furniture",
+        "images": [
+          "https://m.media-amazon.com/images/I/71dJdZ8wKYL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/81RoYEtG-oL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/71vjN+M4iuL._SX425_.jpg"
+        ]
+      },
+      {
+        "title": "Plastic Table",
+        "description": "Very good quality plastic table for multi purpose now in reasonable price",
+        "price": 50,
+        "discountPercentage": 4,
+        "rating": 4.01,
+        "stock": 136,
+        "brand": "Multi Purpose",
+        "category": "furniture",
+        "images": [
+          "https://m.media-amazon.com/images/I/31eQ5TnqKXL._SX425_.jpg",
+          "https://m.media-amazon.com/images/I/310qEmlxYYL.jpg",
+          "https://m.media-amazon.com/images/I/316pGdb9d1L.jpg"
+        ]
+      },
+      {
+        "title": "3 DOOR PORTABLE",
+        "description": "Material: Stainless Steel and Fabric  Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe",
+        "price": 41,
+        "discountPercentage": 7.98,
+        "rating": 4.06,
+        "stock": 68,
+        "brand": "AmnaMart",
+        "category": "furniture",
+        "images": [
+          "https://m.media-amazon.com/images/I/91BFIzADH8L._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/812b+0IpgML._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81KNAjXeRKL._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "Sleeve Shirt Womens",
+        "description": "Cotton Solid Color Professional Wear Sleeve Shirt Womens Work Blouses Wholesale Clothing Casual Plain Custom Top OEM Customized",
+        "price": 90,
+        "discountPercentage": 10.89,
+        "rating": 4.26,
+        "stock": 39,
+        "brand": "Professional Wear",
+        "category": "tops",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20220119/wgqU/61e72536aeb2695cdd1c3330/-473Wx593H-463679212-blue-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220119/j1CO/61e72536aeb2695cdd1c32a9/-473Wx593H-463679212-blue-MODEL2.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220119/hUfS/61e72536aeb2695cdd1c32b9/-473Wx593H-463679212-blue-MODEL5.jpg"
+        ]
+      },
+      {
+        "title": "ank Tops for Womens/Girls",
+        "description": "PACK OF 3 CAMISOLES ,VERY COMFORTABLE SOFT COTTON STUFF, COMFORTABLE IN ALL FOUR SEASONS",
+        "price": 50,
+        "discountPercentage": 12.05,
+        "rating": 4.52,
+        "stock": 107,
+        "brand": "Soft Cotton",
+        "category": "tops",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20230621/BK1w/649224cf42f9e729d75a78b6/-473Wx593H-463427144-pink-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230621/Kjt2/649224cf42f9e729d75a7844/-473Wx593H-463427144-pink-MODEL5.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230621/Kjt2/649224cf42f9e729d75a7844/-473Wx593H-463427144-pink-MODEL5.jpg"
+        ]
+      },
+      {
+        "title": "sublimation plain kids tank",
+        "description": "sublimation plain kids tank tops wholesale",
+        "price": 100,
+        "discountPercentage": 11.12,
+        "rating": 4.8,
+        "stock": 20,
+        "brand": "Soft Cotton",
+        "category": "tops",
+        "images": [
+          "https://i.etsystatic.com/16449966/r/il/007cd4/3261516562/il_794xN.3261516562_av07.jpg",
+          "https://i.etsystatic.com/16449966/r/il/b833d6/3261516544/il_794xN.3261516544_bqvz.jpg",
+          "https://i.etsystatic.com/16449966/r/il/b833d6/3261516544/il_794xN.3261516544_bqvz.jpg"
+        ]
+      },
+      {
+        "title": "Women Sweaters Wool",
+        "description": "2021 Custom Winter Fall Zebra Knit Crop Top Women Sweaters Wool Mohair Cos Customize Crew Neck Women' S Crop Top Sweater",
+        "price": 600,
+        "discountPercentage": 17.2,
+        "rating": 4.55,
+        "stock": 55,
+        "brand": "Top Sweater",
+        "category": "tops",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20230914/cqYX/65033241ddf7791519d90b88/-473Wx593H-443014947-pink-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230914/CGQQ/65033645afa4cf41f5e5dd3e/-473Wx593H-443014947-pink-MODEL5.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230914/CGQQ/65033645afa4cf41f5e5dd3e/-473Wx593H-443014947-pink-MODEL5.jpg"
+        ]
+      },
+
+      {
+        "title": "women winter clothes",
+        "description": "women winter clothes thick fleece hoodie top with sweat pantjogger women sweatsuit set joggers pants two piece pants set",
+        "price": 57,
+        "discountPercentage": 13.39,
+        "rating": 4.91,
+        "stock": 84,
+        "brand": "Top Sweater",
+        "category": "tops",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20220803/DA7T/62ea8aabf997dd03e21f17f1/-473Wx593H-441139532-pink-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220803/xdPj/62ea8a29f997dd03e21f13e0/-473Wx593H-441139532-pink-MODEL3.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220803/xdPj/62ea8a29f997dd03e21f13e0/-473Wx593H-441139532-pink-MODEL3.jpg"
+        ]
+      },
+      {
+        "title": "NIGHT SUIT",
+        "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
+        "price": 55,
+        "discountPercentage": 15.05,
+        "rating": 4.65,
+        "stock": 21,
+        "brand": "RED MICKY MOUSE..",
+        "category": "womens-dresses",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20230823/Sth3/64e5383fddf779151962b420/-473Wx593H-466486676-wine-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230823/vDSH/64e5383fddf779151962b3b5/-473Wx593H-466486676-wine-MODEL4.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230823/Zju1/64e5383fddf779151962b3ae/-473Wx593H-466486676-wine-MODEL5.jpg"
+        ]
+      },
+      {
+        "title": "Stiched Kurta plus trouser",
+        "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROUSER: (38) :ARABIC LILEIN",
+        "price": 80,
+        "discountPercentage": 15.37,
+        "rating": 4.05,
+        "stock": 148,
+        "brand": "Digital Printed",
+        "category": "womens-dresses",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20231215/POsF/657b6010afa4cf41f5d2dd21/-473Wx593H-466888235-pink-MODEL2.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20231215/ZvJc/657b6010afa4cf41f5d2dd2c/-473Wx593H-466888235-pink-MODEL4.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20231215/ZvJc/657b6010afa4cf41f5d2dd2c/-473Wx593H-466888235-pink-MODEL4.jpg"
+        ]
+      },
+      {
+        "title": "frock gold printed",
+        "description": "Ghazi fabric long frock gold printed ready to wear stitched collection (G992)",
+        "price": 600,
+        "discountPercentage": 15.55,
+        "rating": 4.31,
+        "stock": 150,
+        "brand": "Ghazi Fabric",
+        "category": "womens-dresses",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20231205/Vfds/656f260addf7791519b27a0f/-473Wx593H-466855053-yellow-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20231205/g9Dw/656f260addf7791519b27992/-473Wx593H-466855053-yellow-MODEL2.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20231205/cpZG/656f260addf7791519b27991/-473Wx593H-466855053-yellow-MODEL5.jpg"
+        ]
+      },
+      {
+        "title": "Ladies Multicolored Dress",
+        "description": "This classy shirt for women gives you a gorgeous look on everyday wear and specially for semi-casual wears.",
+        "price": 79,
+        "discountPercentage": 16.88,
+        "rating": 4.03,
+        "stock": 2,
+        "brand": "Ghazi Fabric",
+        "category": "womens-dresses",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20230719/S9XA/64b711dbeebac147fc79c854/-1117Wx1400H-466371328-white-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230719/N8WF/64b711dbeebac147fc79c870/-473Wx593H-466371328-white-MODEL2.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230719/2NOE/64b711dbeebac147fc79c86e/-473Wx593H-466371328-white-MODEL3.jpg"
+        ]
+      },
+      {
+        "title": "Malai Maxi Dress",
+        "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting ,Imported stuff",
+        "price": 50,
+        "discountPercentage": 5.07,
+        "rating": 4.67,
+        "stock": 96,
+        "brand": "IELGY",
+        "category": "womens-dresses",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20230808/dUeI/64d16f39a9b42d15c995b272/-473Wx593H-466429240-black-MODEL2.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230808/RmLI/64d16f39a9b42d15c995b26c/-473Wx593H-466429240-black-MODEL3.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230808/JpCl/64d16f39a9b42d15c995b266/-473Wx593H-466429240-black-MODEL4.jpg"
+        ]
+      },
+      {
+        "title": "women's shoes",
+        "description": "Close: Lace, Style with bottom: Increased inside, Sole Material: Rubber",
+        "price": 40,
+        "discountPercentage": 16.96,
+        "rating": 4.14,
+        "stock": 72,
+        "brand": "IELGY fashion",
+        "category": "womens-shoes",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20230621/u7XZ/64927c65d55b7d0c638eb5c5/-473Wx593H-464078071-grey-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230621/Iaca/64927c65d55b7d0c638eb549/-473Wx593H-464078071-grey-MODEL4.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20230621/npSx/64927c65d55b7d0c638eb54a/-473Wx593H-464078071-grey-MODEL6.jpg"
+        ]
+      },
+      {
+        "title": "Sneaker shoes",
+        "description": "Synthetic Leather Casual Sneaker shoes for Women/girls Sneakers For Women",
+        "price": 120,
+        "discountPercentage": 10.37,
+        "rating": 4.19,
+        "stock": 50,
+        "brand": "Synthetic Leather",
+        "category": "womens-shoes",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20231212/bsmQ/65778d8bddf7791519c5056d/-473Wx593H-466874821-black-MODEL2.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20231212/GkGA/65778d8bddf7791519c5057c/-473Wx593H-466874821-black-MODEL5.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20231212/3NL2/65778d8bddf7791519c5057a/-473Wx593H-466874821-black-MODEL7.jpg"
+        ]
+      },
+      {
+        "title": "Women Strip Heel",
+        "description": "Features: Flip-flops, Mid Heel, Comfortable, Striped Heel, Antiskid, Striped",
+        "price": 40,
+        "discountPercentage": 10.83,
+        "rating": 4.02,
+        "stock": 25,
+        "brand": "Sandals Flip Flops",
+        "category": "womens-shoes",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20220429/yTWg/626aef1caeb26921af4985e5/-473Wx593H-469171239-nude-MODEL2.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220429/XYbS/626addacaeb26921af4945a6/-473Wx593H-469171239-nude-MODEL6.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220429/XYbS/626addacaeb26921af4945a6/-473Wx593H-469171239-nude-MODEL6.jpg"
+        ]
+      },
+      {
+        "title": "Chappals & Shoe Ladies Metallic",
+        "description": "Womens Chappals & Shoe Ladies Metallic Tong Thong Sandal Flat Summer 2020 Maasai Sandals",
+        "price": 23,
+        "discountPercentage": 2.62,
+        "rating": 4.72,
+        "stock": 107,
+        "brand": "Maasai Sandals",
+        "category": "womens-shoes",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20220719/SEWz/62d6d801aeb26921af850127/-473Wx593H-469177722-black-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220719/e8H1/62d6c1f5f997dd03e2df12d6/-473Wx593H-469177722-black-MODEL5.jpg",
+          "https://i.dummyjson.com/data/products/49/3.webp",
+          "https://assets.ajio.com/medias/sys_master/root/20221221/Q0SX/63a2c608aeb269659cfdf96f/-473Wx593H-469177722-black-MODEL8.jpg"
+        ]
+      },
+      {
+        "title": "Women Shoes",
+        "description": "2023 New Arrivals Genuine Leather Fashion Trend Platform Summer Women Shoes",
+        "price": 36,
+        "discountPercentage": 16.87,
+        "rating": 4.33,
+        "stock": 46,
+        "brand": "Arrivals Genuine",
+        "category": "womens-shoes",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20220412/sZKg/625483e1f997dd03e2569777/-473Wx593H-450147668-lavendr-MODEL4.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220412/sZKg/625483e1f997dd03e2569777/-473Wx593H-450147668-lavendr-MODEL4.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20220412/sZKg/625483e1f997dd03e2569777/-473Wx593H-450147668-lavendr-MODEL4.jpg"
+        ]
+      }
+    ]
+  }
